@@ -4,7 +4,7 @@ NAMA : GNAYAS AL HARITS
 NIM : 2530521067
 PRODI : TEKNIK INFORMATIKA 3C 
 
-Repository ini berisi program berbasis web sederhana menggunakan **PHP** dan **HTML/CSS** yang dirancang untuk memenuhi tugas praktikum PBO TI 3C. 
+Repository ini berisi program berbasis web sederhana menggunakan **PHP** dan yang dirancang untuk memenuhi tugas praktikum PBO TI 3C. 
 Program ini berfungsi sebagai aplikasi kasir mini untuk menghitung total transaksi belanja dan diskon secara otomatis.
 
 ## Fitur Program
